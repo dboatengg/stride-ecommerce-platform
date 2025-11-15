@@ -3,7 +3,7 @@ import ProductGrid from "@/components/product-grid";
 export default function Home() {
   return (
     <>
-    <section className="p-6 md:p-8 rounded-xl shadow-sm flex flex-col md:flex-row items-center gap-12">
+    <section className="p-6 md:p-8  flex flex-col md:flex-row items-center gap-12">
 
       {/* Text Section */}
       <div className="flex-1">
